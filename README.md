@@ -8,7 +8,7 @@ Full Stack Web Developer & Analista T.I
   <br />
   Bem vindo ao meu Perfil!!!
   <img 
-    src="https://visitor-badge.laobi.icu/badge?page_id=AssueroMota.AssueroMota"
+    src="![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AssueroMota.visitor-badge)"
     alt="visitors">
 </h1>
 
