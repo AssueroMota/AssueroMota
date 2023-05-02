@@ -16,6 +16,7 @@ Full Stack Web Developer & Analista T.I
     alt="mario coding"
     />
 </div>
+-----------------------------
 
 Com 29 anos de idade e 5 anos de experiência em TI, comecei minha carreira na área de suporte técnico e redes de computadores. Porém , venho também me dedicando ao desenvolvimento de software com foco em 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰̧𝗮̃𝗼 𝘄𝗲𝗯 e 𝗯𝗮𝗻𝗰𝗼 𝗱𝗲 𝗱𝗮𝗱𝗼𝘀. Tenho habilidades em diversas categorias de TI, incluindo 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼, 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰̧𝗮̃𝗼, 𝗴𝗲𝗿𝗲𝗻𝗰𝗶𝗮𝗺𝗲𝗻𝘁𝗼 𝗱𝗲 𝗽𝗿𝗼𝗷𝗲𝘁𝗼𝘀, 𝗮𝗻𝗮́𝗹𝗶𝘀𝗲 𝗱𝗲 𝘀𝗶𝘀𝘁𝗲𝗺𝗮𝘀, 𝗲 𝗿𝗲𝗱𝗲𝘀. Atualmente, busco constantemente maneiras de aprimorar minhas habilidades nessas categorias, para oferecer soluções cada vez mais eficazes e inovadoras para meus clientes e empregadores.
 
