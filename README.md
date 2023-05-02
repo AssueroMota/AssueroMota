@@ -25,7 +25,7 @@ Com três formações em TI, estou atualmente estudando Desenvolvimento de Siste
 * 🌍  Eu atualmente moro em Recife, Pernambuco, Brasil
 * ✉️  Você pode entrar em contato comigo pelo [Assueromota@hotmail.com](mailto:Assueromota@hotmail.com)
 * 🚀  Atualmente trabalho como Analista de TI na [Litoraneus](https://www.litoraneus.com/)
-* 🧠  Estou focado em aprimorar minhas habilidades em, JavaScript e seus frameworks (React e Angular), PHP e seus frameworks (Laravel), linguagem SQL e técnicas avançadas de testes unitários para garantir a qualidade do meu código em todas as etapas do desenvolvimento de software.
+* 🧠  Estou focado em aprimorar minhas habilidades em, JavaScript e seus frameworks (React e TypeScript), PHP e seus frameworks (Laravel), linguagem SQL e técnicas avançadas de testes unitários para garantir a qualidade do meu código em todas as etapas do desenvolvimento de software.
 * 🎻  Sou apaixonado por música, especialmente música clássica erudita, e tenho habilidades em tocar violino.
 
 ### Skills
