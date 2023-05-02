@@ -6,10 +6,7 @@ Full Stack Web Developer & Analista T.I
     src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
     width="30px">
   <br />
-  Bem vindo ao meu Perfil!!!
-  <img 
-    src="![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AssueroMota.visitor-badge)"
-    alt="visitors">
+  Bem vindo ao meu Perfil !
 </h1>
 
 <!--*************** Front cover ***************-->
