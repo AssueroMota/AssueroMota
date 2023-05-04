@@ -1,12 +1,11 @@
 Full Stack Web Developer & Analista T.I
 -----------------------------
-<h1 align="center">
-  Olá Meu Nome é Assuero
+<h1 align="center">Bem vindo ao meu Perfil !
   <img 
     src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"
     width="30px">
   <br />
-  Bem vindo ao meu Perfil !
+
 </h1>
 
 <!--*************** Front cover ***************-->
