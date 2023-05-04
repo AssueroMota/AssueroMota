@@ -22,8 +22,8 @@ Acesse meu portfolio: *******************
  <br />
 Com três formações em TI, estou atualmente estudando:<br />
 • Desenvolvimento de Sistemas na GrauTech (https://www.grautecnico.com.br/cursos/tecnico-em-desenvolvimento-de-sistemas)  <br />
-• Pós-graduação em Engenharia de Software (https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-engenharia-de-software/).  <br />
-Tenho como objetivo ampliar meus conhecimentos e habilidades para me tornar um profissional de TI completo, apto a enfrentar os desafios do mundo moderno de forma eficiente e inovadora
+• Pós-graduação em Engenharia de Software (https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-engenharia-de-software/).  <br /><br />
+<b>Tenho como objetivo ampliar meus conhecimentos e habilidades para me tornar um profissional de TI completo, apto a enfrentar os desafios do mundo moderno de forma eficiente e inovadora</b>
 * 🌍  Eu atualmente moro em Recife, Pernambuco, Brasil
 * ✉️  Você pode entrar em contato comigo pelo [Assueromota@hotmail.com](mailto:Assueromota@hotmail.com)
 * 🚀  Atualmente trabalho como Analista de TI na [Litoraneus](https://www.litoraneus.com/)
