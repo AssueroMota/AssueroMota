@@ -17,8 +17,8 @@ Full Stack Web Developer & Analista T.I
 </div>
   <br />
 
-Com 29 anos de idade e 5 anos de experiência em TI, comecei minha carreira na área de suporte técnico e redes de computadores. Porém , venho também me dedicando ao desenvolvimento de software com foco em 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰̧𝗮̃𝗼 𝘄𝗲𝗯 e 𝗯𝗮𝗻𝗰𝗼 𝗱𝗲 𝗱𝗮𝗱𝗼𝘀. Tenho habilidades em diversas categorias de TI, incluindo 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼, 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗮𝗰̧𝗮̃𝗼, 𝗴𝗲𝗿𝗲𝗻𝗰𝗶𝗮𝗺𝗲𝗻𝘁𝗼 𝗱𝗲 𝗽𝗿𝗼𝗷𝗲𝘁𝗼𝘀, 𝗮𝗻𝗮́𝗹𝗶𝘀𝗲 𝗱𝗲 𝘀𝗶𝘀𝘁𝗲𝗺𝗮𝘀, 𝗲 𝗿𝗲𝗱𝗲𝘀. Atualmente, busco constantemente maneiras de aprimorar minhas habilidades nessas categorias, para oferecer soluções cada vez mais eficazes e inovadoras para meus clientes e empregadores.
-
+Estou na área de TI há 5 anos, tendo iniciado com foco em suporte técnico e redes e, nos últimos 2 anos, me dedicando à programação web e banco de dados.
+Acesse meu portfolio: ******************* 
 Com três formações em TI, estou atualmente estudando Desenvolvimento de Sistemas na GrauTech (https://www.grautecnico.com.br/cursos/tecnico-em-desenvolvimento-de-sistemas) e buscando uma pós-graduação em Engenharia de Software (https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-engenharia-de-software/). Meu objetivo é expandir ainda mais meus conhecimentos e habilidades para me tornar um profissional de TI completo e capaz de enfrentar os desafios do mundo moderno.
 
 * 🌍  Eu atualmente moro em Recife, Pernambuco, Brasil
