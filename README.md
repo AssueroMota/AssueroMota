@@ -20,7 +20,9 @@ Full Stack Web Developer & Analista T.I
 Estou na área de TI há 5 anos, tendo iniciado com foco em suporte técnico e redes e, nos últimos 2 anos, me dedicando à programação web e banco de dados.
 Acesse meu portfolio: ******************* 
  <br />
-Com três formações em TI, estou atualmente estudando Desenvolvimento de Sistemas na GrauTech (https://www.grautecnico.com.br/cursos/tecnico-em-desenvolvimento-de-sistemas) e buscando uma pós-graduação em Engenharia de Software (https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-engenharia-de-software/).  <br />
+Com três formações em TI, estou atualmente estudando:
+• Desenvolvimento de Sistemas na GrauTech (https://www.grautecnico.com.br/cursos/tecnico-em-desenvolvimento-de-sistemas)  <br />
+• Pós-graduação em Engenharia de Software (https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-engenharia-de-software/).  <br />
 Tenho como objetivo ampliar meus conhecimentos e habilidades para me tornar um profissional de TI completo, apto a enfrentar os desafios do mundo moderno de forma eficiente e inovadora
 * 🌍  Eu atualmente moro em Recife, Pernambuco, Brasil
 * ✉️  Você pode entrar em contato comigo pelo [Assueromota@hotmail.com](mailto:Assueromota@hotmail.com)
