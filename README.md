@@ -1,4 +1,4 @@
-Full Stack Web Developer & Analista T.I
+Developer Front End & Analista T.I
 -----------------------------
 <h1 align="center">Bem vindo ao meu Perfil !
   <img 
