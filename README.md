@@ -27,7 +27,7 @@ Com três formações em TI, estou atualmente estudando:<br />
 <b>Tenho como objetivo ampliar meus conhecimentos e habilidades para me tornar um profissional de TI completo, apto a enfrentar os desafios do mundo moderno de forma eficiente e inovadora</b>
 * 🌍  Eu atualmente moro em Recife, Pernambuco, Brasil
 * ✉️  Você pode entrar em contato comigo pelo [Assueromota@hotmail.com](mailto:Assueromota@hotmail.com)
-* 🚀  Atualmente trabalho como Analista de TI na [Litoraneus](https://www.litoraneus.com/)
+* 🚀  Atualmente trabalho como Developer FullStack Web, Front-end Mobile [PiaAgency]
 * 🧠  Estou focado em aprimorar minhas habilidades em, JavaScript e seus frameworks (React e TypeScript), PHP e seus frameworks (Laravel), linguagem SQL e técnicas avançadas de testes unitários para garantir a qualidade do meu código em todas as etapas do desenvolvimento de software.
 * 🎻  Sou apaixonado por música, especialmente música clássica erudita, e tenho habilidades em tocar violino.
 
