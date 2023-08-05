@@ -17,7 +17,7 @@ Developer Front End & Analista T.I
 </div>
   <br />
 
-Estou na área de TI há 8 anos, tendo iniciado com foco em suporte técnico e redes e, no último ano, venho me dedicando à programação web e banco de dados.
+Há 8 anos, atuo na área de Tecnologia da Informação, inicialmente concentrando-me em suporte técnico e redes. No último ano, direcionei meu foco para a programação web e Mobile.
  <br />
  
 Com três formações em TI, estou atualmente estudando:<br />
