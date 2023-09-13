@@ -20,8 +20,8 @@ Developer Front End & Analista T.I
 Há 8 anos, atuo na área de Tecnologia da Informação. 
  <br /><br />
  • Pós-graduação em Engenharia de Software (https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-engenharia-de-software/). <br />
- • Graduação Desenvolvimento de Sistemas na GrauTech (https://www.grupounibra.com/curso/superior-de-tecnologia-em-redes-de-computadores) <br />
-•  Graduação - Sistemas Redes de Computadores (https://www.grautecnico.com.br/cursos/tecnico-em-desenvolvimento-de-sistemas) <br />
+ • Graduação Desenvolvimento de Sistemas na GrauTech (https://www.grautecnico.com.br/cursos/tecnico-em-desenvolvimento-de-sistemas)<br />
+•  Graduação - Sistemas Redes de Computadores (https://www.grupounibra.com/curso/superior-de-tecnologia-em-redes-de-computadores)  <br />
 •  Tecnico em Informatica ([https://www.grautecnico.com.br/cursos/tecnico-em-desenvolvimento-de-sistemas](https://www.linkedin.com/company/faculdade-maur-cio-de-nassau/?originalSubdomain=br))<br />
 •  Profissionalizante em T.I (https://social.redemarista.org.br/centro/cesmar/servicos/jovem-aprendiz/centro-de-recondicionamento-de-computadores-(crc))<br />
  <br /><br />
