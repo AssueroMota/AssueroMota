@@ -18,7 +18,7 @@ Developer Front End & Analista T.I
   <br />
 
 Há 8 anos, atuo na área de Tecnologia da Informação. 
- <br />
+ <br /><br />
  • Pós-graduação em Engenharia de Software (https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-engenharia-de-software/). <br />
  • Graduação Desenvolvimento de Sistemas na GrauTech (https://www.grautecnico.com.br/cursos/tecnico-em-desenvolvimento-de-sistemas)  <br />
 •  Graduação - Sistemas Redes de Computadores (https://www.grautecnico.com.br/cursos/tecnico-em-desenvolvimento-de-sistemas) <br />
