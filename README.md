@@ -17,10 +17,14 @@ Developer Front End & Analista T.I
 </div>
   <br />
 
-Há 8 anos, atuo na área de Tecnologia da Informação
+Há 8 anos, atuo na área de Tecnologia da Informação. 
  <br />
  
-Com três formações em TI, estou atualmente estudando:<br />
+• Graduação em Sistemas Redes de Computadores
+• Tecnico em Informatica
+• Profissionalizante em T.I
+<br />
+Atualmente estudando:<br />
 <br />
 • Desenvolvimento de Sistemas na GrauTech (https://www.grautecnico.com.br/cursos/tecnico-em-desenvolvimento-de-sistemas)  <br />
 • Pós-graduação em Engenharia de Software (https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-engenharia-de-software/).  <br /><br />
