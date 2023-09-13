@@ -20,8 +20,8 @@ Developer Front End & Analista T.I
 Há 8 anos, atuo na área de Tecnologia da Informação. 
  <br />
  
-• Graduação em Sistemas Redes de Computadores
-• Tecnico em Informatica
+• Graduação em Sistemas Redes de Computadores<br />
+• Tecnico em Informatica<br />
 • Profissionalizante em T.I
 <br />
 Atualmente estudando:<br />
