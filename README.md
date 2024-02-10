@@ -29,7 +29,7 @@ Há 8 anos, atuo na área de Tecnologia da Informação.
 * 🌍  Eu atualmente moro em Recife, Pernambuco, Brasil
 * ✉️  Você pode entrar em contato comigo pelo [Assueromota@hotmail.com](mailto:Assueromota@hotmail.com)
 * 🚀  Atualmente trabalho como Developer FullStack Web, Front-end Mobile [PiaAgency]
-* 🧠  Estou focado em aprimorar minhas habilidades em, JavaScript e seus frameworks (React e TypeScript), PHP e seus frameworks (Laravel), linguagem SQL e técnicas avançadas de testes unitários para garantir a qualidade do meu código em todas as etapas do desenvolvimento de software.
+* 🧠  Estou focado em aprimorar minhas habilidades e me torna especialista em JavaScript e seus frameworks (React e TypeScript), PHP e seus frameworks (Laravel), Dados com PowerQuery e Power B.I.
 * 🎻  Sou apaixonado por música, especialmente música clássica erudita, e tenho habilidades em tocar violino.
 
 ### Skills
